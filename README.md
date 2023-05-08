@@ -1,4 +1,5 @@
 # blender-autoRender-save
 In this repository you will find a python script to automatically render and save an image.
 The entire script is written in python.
-![Example of using](https://www.dropbox.com/s/2rupl76qz2y71uo/sample.png?dl=0)
+
+![how it looks](https://user-images.githubusercontent.com/90109463/236916305-3a7d2be6-6abe-48dc-ad0f-449bd05089fd.png)
